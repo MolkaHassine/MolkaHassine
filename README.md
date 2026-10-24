@@ -70,15 +70,6 @@ Passionnée par la **protection des systèmes et des données**. J'analyse le fo
 
 ---
 
-## 📊 Activité GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MolkaHassine&show_icons=true&include_all_commits=true&bg_color=0D0D0D&title_color=A855F7&icon_color=A855F7&text_color=EDEDED&border_color=4B0082" alt="Statistiques" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MolkaHassine&layout=compact&langs_count=8&bg_color=0D0D0D&title_color=A855F7&text_color=EDEDED&border_color=4B0082" alt="Langages" />
-</p>
-
----
-
 ## 🤝 Me contacter
 
 - 📧 **Email** : [molka.hassine@polytechnicien.tn](mailto:molka.hassine@polytechnicien.tn)
